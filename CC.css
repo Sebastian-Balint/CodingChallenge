@@ -1,0 +1,93 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+
+.logo{
+    width: 280px;
+    text-align: center;
+}
+
+header > img:first-child{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 20%;
+}
+
+.body{
+    border-radius: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+    padding: 5%;
+    background: rgba(0, 0, 0, 0.6)
+}
+   
+
+
+
+#title{
+    color:  rgb(10, 225, 10);
+    text-align: center;
+    margin-top: 15px;
+    font-family: 'Segoe Ui';
+    
+}
+
+nav{
+    height: 20px;
+  
+  text-align: center;
+  background-color: rgb(10, 225, 10) ;
+  padding: 10px;
+  margin-top: 14px;
+  margin-bottom: 18px;
+}
+
+h2 {
+    color: white;
+    font-weight: 500;
+    display: inline-block;
+    margin: 2px;
+}
+
+input {
+    transform: scale(130%);
+    margin-right: 5px;
+}
+
+main {
+    font-family: 'Segoe Ui';
+    color: white;
+}
+
+
+.battery {
+    width: 400px;
+    height: 30px;
+    background-color: rgb(234, 185, 72);
+    border-radius: 6px;
+    margin-top: 3px;
+}
+
+.battery2 {
+    width: 730px;
+    height: 30px;
+    background-color: rgb(10, 225, 10);
+    border-radius: 6px;
+    margin-top: 3px;
+}
+
+.battery3 {
+    width: 160px;
+    height: 30px;
+    background-color: rgb(204, 77, 63);
+    border-radius: 6px;
+    margin-top: 3px;
+}
+
+.first, .second, .third {
+    margin-top: 15px;
+}
+
